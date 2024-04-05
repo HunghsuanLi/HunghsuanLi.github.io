@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Hunghsuan.com</id>
+    <title>Hunghsuan&apos;s blog</title>
+    <updated>2024-04-05T06:10:06.706Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Hunghsuan.com"/>
+    <link rel="self" href="https://Hunghsuan.com/atom.xml"/>
+    <subtitle>The words put here usually make sense, such as this sentence.</subtitle>
+    <logo>https://Hunghsuan.com/images/avatar.png</logo>
+    <icon>https://Hunghsuan.com/favicon.ico</icon>
+    <rights>All rights reserved 2024, Hunghsuan&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://Hunghsuan.com/post/about/</id>
+        <link href="https://Hunghsuan.com/post/about/">
+        </link>
+        <updated>2024-02-10T11:09:48.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Welcome to my little site, nice to meet you! 🤝</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Welcome to my little site, nice to meet you! 🤝</strong></p>
+<!-- more -->
+<h2 id="about-this-site">🏠 About this site</h2>
+<p>The personal website, which took two days to build, is scheduled to be launched on February 10, 2024 (Lunar New Year).</p>
+<h2 id="who-is-the-blogger">👨‍💻 Who is the blogger?</h2>
+<p>♂️   2️⃣3️⃣   ♋ 🅰️  🎮<br>
+🆓 PUBGM Chinese Community Moderator<br>
+🆒 PUBGM WOW &amp; Metro Royale Cantonese &amp; Mandarin Helper<br>
+🆔 5369089790<br>
+🏆 10 seasons Conqueror Pro Player</p>
+<h2 id="hobbies">⛹ Hobbies</h2>
+<p>PUBGM</p>
+<h2 id="contact-me">📬 Contact me</h2>
+<p>lihunghsuan@icloud.com</p>
+<h2 id="streaming">Streaming</h2>
+<p><a href="https://streamelements.com/lihunghsuan">Profile</a></p>
+]]></content>
+    </entry>
+</feed>
